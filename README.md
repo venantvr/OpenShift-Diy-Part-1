@@ -12,7 +12,4 @@ POC WebSockets sur OpenShift DIY : serveur WebSocket PHP et chat en temps reel.
 
 ## Stack
 
-- PHP
-- WebSockets
-- HTML
-- OpenShift DIY
+[![Stack](https://skillicons.dev/icons?i=js,openshift,html,php&theme=dark)](https://skillicons.dev)

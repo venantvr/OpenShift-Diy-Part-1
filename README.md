@@ -1,5 +1,18 @@
-The OpenShift `diy` cartridge documentation can be found at:
+# OpenShift-Diy-Part-1
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#diy
+POC WebSockets sur OpenShift DIY : serveur WebSocket PHP et chat en temps reel.
 
-Very simple WebSockets implementation for OpenShift...
+## Structure
+
+| Fichier / Dossier | Role |
+|-|-|
+| `chat.php` | Interface de chat |
+| `misc/websockets/` | Serveur et client WebSocket PHP |
+| `diy/` | Scripts de build OpenShift |
+
+## Stack
+
+- PHP
+- WebSockets
+- HTML
+- OpenShift DIY
